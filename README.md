@@ -7,7 +7,7 @@
 </style>
 
 <div align="center">
-    <h1 class="logo">Rick and Morty</h1>
+    <h1 style="text-transform: uppercase; color: #00b6cf; text-shadow: 0px 0px 15px #000;" class="logo">Rick and Morty</h1>
     
 </div>
 
