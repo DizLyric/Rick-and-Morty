@@ -1,12 +1,5 @@
-<style>
-    .logo{
-        text-transform: uppercase;
-        color: #00b6cf;
-    }
-</style>
-
 <div align="center">
-    <h1 style="text-transform: uppercase; color: #00b6cf;" class="logo">Rick and Morty</h1>
+    <h1 class="logo">Rick and Morty</h1>
     
 </div>
 
