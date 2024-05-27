@@ -1,0 +1,17 @@
+@import url("/node_modules/primeflex/primeflex.css");
+@import url("./primeflextheme.css");
+
+@font-face {
+    font-family: "get-schwifty";
+    src: url("/public/fonts/get-schwifty.ttf");
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI';
+}
+
+body {
+    margin: 0;
+    background-color: #272b33;
+}
