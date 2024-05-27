@@ -2,10 +2,8 @@
     .logo{
         text-transform: uppercase;
         color: #00b6cf;
-        -webkit-text-stroke: 1px #abf100;
         text-shadow: 0px 0px 15px #000;
     }
-
 </style>
 
 <div align="center">
